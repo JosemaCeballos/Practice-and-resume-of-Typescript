@@ -1,0 +1,12 @@
+POST http://localhost:3000
+Content-Type: application/json
+
+{
+    "name": "Hola mundo"
+}
+
+
+
+#######
+GET http://localhost:3000
+Content-Type: application/json
